@@ -18,51 +18,68 @@ const Footer = () => {
       </section>
 
       <footer>
+
+
         <div className='container'>
-          <div className='box'>
-            <div className='logo'>
-              <img src="https://i.ibb.co/TtDBg0b/acmen1.jpg"  alt='Acmen Company Logo' className="acmen-company-logo"/>
-              
-              <p className="acmen-company-font-small">
-                Our Location
-                Head Office: ABC Lagos, Nigeria.
-                <br/>
-                <br/>
-                Mainland Cooperate Office: ABC Lagos, Nigeria.
-                <br/>
-                <br/>
-                RC: 1966277
-              </p>
 
+        <div className='box' id='box'>
+
+          <div className='logo'>
+            <img src="https://i.ibb.co/TtDBg0b/acmen1.jpg"  alt='Acmen Company Logo' className="acmen-company-logo"/>
+            
+            <p className="acmen-company-font-small acmen-company-footer-listings acmen-company-footer-listings-first">
+              Our Location
+              Head Office: ABC Lagos, Nigeria.
               <br/>
               <br/>
-              
-              <h2>Do You Need Help With Anything?</h2>
-              <p>Receive updates, hot deals, tutorials, discounts sent straignt in your inbox every month</p>
+              Mainland Cooperate Office: ABC Lagos, Nigeria.
+              <br/>
+              <br/>
+              RC: 1966277
+            </p>
 
-              <div className='input flex'>
-                <input type='text' placeholder='Email Address' />
-                <button className="subscribebutton-desktop">Subscribe</button>
-                <button className="subscribebutton-mobile"><i className='fa-solid fa-magnifying-glass'></i></button>
-                
-              </div>
-            </div>
+            <br/>
+            <br/>
+            
           </div>
 
+        </div>
+
           {footer.map((val) => (
-            <div className='box'>
-              <h3>{val.title}</h3>
-              <ul>
+            <div className='box acmen-company-footer-listings-box'>
+              <h3 className="footer-title-value">{val.title}</h3>
+              <ul className="acmen-company-footer-listings">
                 {val.text.map((items) => (
                   <li className="acmen-company-font-small"> {items.list} </li>
                 ))}
               </ul>
             </div>
           ))}
+
         </div>
+
+
+        <div className="subscribe-container">
+
+
+          <h2>Do You Need Help With Anything?</h2>
+          <p className="subscibenow-animate">Subscribe Now</p>
+          <p>Receive updates, hot deals, Real Estate Investment, sent straignt in your inbox every month</p>
+
+          <div className='input flex'>
+            <input type='text' placeholder='Email Address' />
+            <button className="subscribebutton-desktop">Subscribe</button>
+            <button className="subscribebutton-mobile"><i className='fa-solid fa-magnifying-glass'></i></button>
+            
+          </div>
+
+        </div>
+
       </footer>
+
+
       <div className='legal'>
-        <span>© 2024 Acmen. Designd By wayden.</span>
+        <span>© 2024 Acmen. Residence and Real Estate Company.</span>
       </div>
     </>
   )
