@@ -38,6 +38,9 @@ const Footer = () => {
               <br/>
               <br/>
               Phone: +234 806 475 4537
+              <br/>
+              <br/>
+              Email: info@acmenhomes.ng
             </p>
 
             <br/>
@@ -69,7 +72,7 @@ const Footer = () => {
 
           <h2>Do You Need Help With Anything?</h2>
           <p className="subscibenow-animate">Subscribe Now</p>
-          <p>Receive updates, hot deals, Real Estate Investment, sent straignt in your inbox every month</p>
+          <p>Receive updates, hot deals, Real Estate Investment, sent straignt in your inbox daily</p>
 
           <div className='input flex'>
             <input type='text' placeholder='Email Address' />

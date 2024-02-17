@@ -167,9 +167,15 @@ footer ul li {
   }
 
   .subscribe-container {
-    width: 100%;
+    border: 2px solid none;
+    width: 96%;
     padding: 1.5%;
     margin: 1.5%;
+  }
+
+  .input {
+    border: 2px solid none;
+    width: 90%;  
   }
 
 }
