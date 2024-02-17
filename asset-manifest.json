@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/acmen/static/css/main.cd3ec011.css",
-    "main.js": "/acmen/static/js/main.ecb208cd.js",
+    "main.css": "/acmen/static/css/main.4b4e27bb.css",
+    "main.js": "/acmen/static/js/main.d78dc896.js",
     "static/media/about.jpg": "/acmen/static/media/about.56e92b20e762df2fa5de.jpg",
     "static/media/pricing.jpg": "/acmen/static/media/pricing.4552ccf3b91e93029513.jpg",
     "static/media/services.jpg": "/acmen/static/media/services.13be7fde05782bd5e2e8.jpg",
     "static/media/banner.png": "/acmen/static/media/banner.1a3c8a0a448e8e24f6a0.png",
     "index.html": "/acmen/index.html",
-    "main.cd3ec011.css.map": "/acmen/static/css/main.cd3ec011.css.map",
-    "main.ecb208cd.js.map": "/acmen/static/js/main.ecb208cd.js.map"
+    "main.4b4e27bb.css.map": "/acmen/static/css/main.4b4e27bb.css.map",
+    "main.d78dc896.js.map": "/acmen/static/js/main.d78dc896.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd3ec011.css",
-    "static/js/main.ecb208cd.js"
+    "static/css/main.4b4e27bb.css",
+    "static/js/main.d78dc896.js"
   ]
 }
