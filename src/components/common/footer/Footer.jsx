@@ -22,6 +22,15 @@ const Footer = () => {
           <div className='box'>
             <div className='logo'>
               <img src='../images/acmen1.jpg' alt='' />
+              <h5>
+                Our Location
+                Head Office: 4A Omon Ebhomenye Street, Off Admiralty Way, Lekki Phase 1, Lagos, Nigeria.
+                Mainland Cooperate Office: 65, Allen Avenue, First Bank Bus-stop, Ikeja, Lagos, Nigeria.
+              </h5>
+
+              <br/>
+              <br/>
+              
               <h2>Do You Need Help With Anything?</h2>
               <p>Receive updates, hot deals, tutorials, discounts sent straignt in your inbox every month</p>
 

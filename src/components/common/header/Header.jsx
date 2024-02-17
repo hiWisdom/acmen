@@ -25,10 +25,10 @@ const Header = () => {
           </div>
           <div className='button flex'>
             <h4>
-              <span>2</span> My List
+              <span>2</span> Property Cart
             </h4>
             <button className='btn1'>
-              <i className='fa fa-sign-out'></i> Sign In
+              <i className='fa fa-sign-out'></i> Call us
             </button>
           </div>
 

@@ -5,26 +5,30 @@ export const nav = [
     text: "home",
     path: "/",
   },
+
   {
     text: "about",
     path: "/about",
   },
-  {
-    text: "services",
-    path: "/services",
-  },
-  {
-    text: "blog",
-    path: "/blog",
-  },
-  {
-    text: "pricing",
-    path: "/pricing",
-  },
+
   {
     text: "contact",
     path: "/contact",
+
   },
+
+  {
+    text: "products",
+    path: "/services",
+  },
+
+  {
+    text: "Media",
+    path: "/blog",
+  },
+
+ 
+
 ]
 
 /**featured link items */
@@ -320,15 +324,15 @@ export const price = [
 /**footer link items */
 export const footer = [
   {
-    title: "LAYOUTS",
-    text: [{ list: "Home Page" }, { list: "About Page" }, { list: "Service Page" }, { list: "Property Page" }, { list: "Contact Page" }, { list: "Single Blog" }],
+    title: "About Acmen Homes",
+    text: [{ list: "Real Estate Videos" }, { list: "Blog" }, { list: "Purchase" }],
   },
   {
-    title: "ALL SECTIONS",
-    text: [{ list: "Headers" }, { list: "Features" }, { list: "Attractive" }, { list: "Testimonials" }, { list: "Videos" }, { list: "Footers" }],
+    title: "Help & Support",
+    text: [{ list: "FAQS" }, { list: "Customer Care" }, { list: "Book an Inspection" }, { list: "How To Use Acmen Portal" }, { list: "News" }],
   },
   {
-    title: "COMPANY",
-    text: [{ list: "About" }, { list: "Blog" }, { list: "Pricing" }, { list: "Affiliate" }, { list: "Login" }, { list: "Changelog" }],
+    title: "Follow Us",
+    text: [{ list: "Facebook" }, { list: "Instagram" }, { list: "Youtube" }],
   },
 ]
