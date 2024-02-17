@@ -21,12 +21,18 @@ const Footer = () => {
         <div className='container'>
           <div className='box'>
             <div className='logo'>
-              <img src='../images/acmen1.jpg' alt='' />
-              <h5>
+              <img src="https://i.ibb.co/TtDBg0b/acmen1.jpg"  alt='Acmen Company Logo' className="acmen-company-logo"/>
+              
+              <p className="acmen-company-font-small">
                 Our Location
-                Head Office: 4A Omon Ebhomenye Street, Off Admiralty Way, Lekki Phase 1, Lagos, Nigeria.
-                Mainland Cooperate Office: 65, Allen Avenue, First Bank Bus-stop, Ikeja, Lagos, Nigeria.
-              </h5>
+                Head Office: ABC Lagos, Nigeria.
+                <br/>
+                <br/>
+                Mainland Cooperate Office: ABC Lagos, Nigeria.
+                <br/>
+                <br/>
+                RC: 1966277
+              </p>
 
               <br/>
               <br/>
@@ -36,7 +42,9 @@ const Footer = () => {
 
               <div className='input flex'>
                 <input type='text' placeholder='Email Address' />
-                <button>Subscribe</button>
+                <button className="subscribebutton-desktop">Subscribe</button>
+                <button className="subscribebutton-mobile"><i className='fa-solid fa-magnifying-glass'></i></button>
+                
               </div>
             </div>
           </div>
@@ -46,7 +54,7 @@ const Footer = () => {
               <h3>{val.title}</h3>
               <ul>
                 {val.text.map((items) => (
-                  <li> {items.list} </li>
+                  <li className="acmen-company-font-small"> {items.list} </li>
                 ))}
               </ul>
             </div>
@@ -54,7 +62,7 @@ const Footer = () => {
         </div>
       </footer>
       <div className='legal'>
-        <span>© 2024 Acmen. Designd By wayside.</span>
+        <span>© 2024 Acmen. Designd By wayden.</span>
       </div>
     </>
   )

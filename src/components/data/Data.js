@@ -324,7 +324,7 @@ export const price = [
 /**footer link items */
 export const footer = [
   {
-    title: "About Acmen Homes",
+    title: "Acmen Homes",
     text: [{ list: "Real Estate Videos" }, { list: "Blog" }, { list: "Purchase" }],
   },
   {

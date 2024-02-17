@@ -45,6 +45,14 @@ header .toggle {
   width: 100%;
 }
 
+.acmen-company-logo {
+  height: 2cm;
+}
+
+.navList-icon {
+  font-size: 20px;
+}
+
 @media screen and (max-width: 768px) {
   header {
     padding: 0;
@@ -60,7 +68,6 @@ header .toggle {
   }
   header .toggle {
     display: block;
-    margin-top: 20px;
   }
   header .small {
     position: absolute;
@@ -74,5 +81,12 @@ header .toggle {
     display: inline-block;
     margin-bottom: 20px;
     color: #fff;
+  }
+
+  .acmen-company-logo {
+    border: 2px solid red;
+    height: 1.8cm;
+    width: 120px;
+    margin-top: -0.5px
   }
 }

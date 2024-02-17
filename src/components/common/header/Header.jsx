@@ -11,7 +11,7 @@ const Header = () => {
       <header>
         <div className='container flex'>
           <div className='logo'>
-            <img src='./images/acmen1.jpg' alt='company logo' />
+            <img src="https://i.ibb.co/TtDBg0b/acmen1.jpg"  alt='Acmen Company Logo' className="acmen-company-logo"/>
           </div>
           
           <div className='nav'>
@@ -33,7 +33,12 @@ const Header = () => {
           </div>
 
           <div className='toggle'>
-            <button onClick={() => setNavList(!navList)}>{navList ? <i className='fa fa-times'></i> : <i className='fa fa-bars'></i>}</button>
+
+            <button onClick={() => setNavList(!navList)}>
+            
+              {navList ? <i className='fa fa-times navList-icon'></i> : <i className='fa fa-bars navList-icon'></i>}
+              
+            </button>
           </div>
         </div>
       </header>
