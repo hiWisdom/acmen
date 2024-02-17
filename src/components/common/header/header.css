@@ -41,7 +41,7 @@ header .toggle {
 }
 
 .navbar {
-  border: 1px solid red !important;
+  border: 1px solid none !important;
   width: 100%;
 }
 
@@ -84,7 +84,7 @@ header .toggle {
   }
 
   .acmen-company-logo {
-    border: 2px solid red;
+    border: 2px solid none;
     height: 1.8cm;
     width: 120px;
     margin-top: -0.5px
