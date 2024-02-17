@@ -50,7 +50,7 @@ header .toggle {
 }
 
 .navList-icon {
-  font-size: 20px;
+  font-size: xx-large;
 }
 
 @media screen and (max-width: 768px) {
@@ -72,8 +72,8 @@ header .toggle {
   header .small {
     position: absolute;
     top: 10vh;
-    left: 0;
-    width: 100%;
+    left: 1;
+    width: 60%;
     background-color: #fff40a;
     padding: 20px;
   }
@@ -89,4 +89,22 @@ header .toggle {
     width: 120px;
     margin-top: -0.5px
   }
+
+  .navList-toggle-button {
+    background-color: white;
+    color:#fff40a;
+  }
+
+  .navList-toggle-button i{
+    font-size: xx-large;
+  }
+
+  #nav-list {
+    color: black !important;
+  }
+
+  #nav-list:hover {
+    color: white !important;
+  }
+
 }

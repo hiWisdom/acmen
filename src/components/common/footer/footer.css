@@ -97,6 +97,16 @@ footer ul li {
   font-style: italic;
 }
 
+.acmen-company-font-small {
+  cursor: pointer;
+  transition: all .2s ease-in-out;
+}
+
+.acmen-company-font-small:hover {
+  text-decoration: underline 2px #fff40a;
+  transition: all .2s ease-in-out;
+}
+
 @media screen and (max-width: 800px) {
 
   footer .container {
@@ -164,6 +174,7 @@ footer ul li {
 
   .acmen-company-font-small {
     margin-bottom: 0.5em;
+    cursor: pointer;
   }
 
   .subscribe-container {
