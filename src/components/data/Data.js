@@ -1,3 +1,5 @@
+
+/**nav bar link items */
 export const nav = [
   {
     text: "home",
@@ -24,6 +26,8 @@ export const nav = [
     path: "/contact",
   },
 ]
+
+/**featured link items */
 export const featured = [
   {
     cover: "../images/hero/h1.png",
@@ -51,6 +55,8 @@ export const featured = [
     total: "80 Property",
   },
 ]
+
+/**list link items */
 export const list = [
   {
     id: 1,
@@ -107,6 +113,8 @@ export const list = [
     type: "Apartment",
   },
 ]
+
+/**awards link items */
 export const awards = [
   {
     icon: <i class='fa-solid fa-trophy'></i>,
@@ -129,6 +137,8 @@ export const awards = [
     name: "IITCA Green Award",
   },
 ]
+
+/**location link items */
 export const location = [
   {
     id: 1,
@@ -179,6 +189,8 @@ export const location = [
     cover: "./images/location/city-6.png",
   },
 ]
+
+/**team link items */
 export const team = [
   {
     list: "50",
@@ -223,6 +235,8 @@ export const team = [
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
 ]
+
+/**price link items */
 export const price = [
   {
     plan: "Basic",
@@ -302,6 +316,8 @@ export const price = [
     ],
   },
 ]
+
+/**footer link items */
 export const footer = [
   {
     title: "LAYOUTS",
