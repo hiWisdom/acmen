@@ -26,7 +26,9 @@ const Footer = () => {
 
           <div className='logo'>
             <img src="https://i.ibb.co/TtDBg0b/acmen1.jpg"  alt='Acmen Company Logo' className="acmen-company-logo"/>
-            
+            <br/>
+            RC: 1966277
+            <br/>
             <p className="acmen-company-font-small acmen-company-footer-listings acmen-company-footer-listings-first">
               Our Location
               Head Office: ABC Lagos, Nigeria.
@@ -35,13 +37,16 @@ const Footer = () => {
               Mainland Cooperate Office: ABC Lagos, Nigeria.
               <br/>
               <br/>
-              RC: 1966277
+              Phone: +234 806 475 4537
             </p>
 
             <br/>
             <br/>
             
           </div>
+
+          <br/>
+          <br/>
 
         </div>
 

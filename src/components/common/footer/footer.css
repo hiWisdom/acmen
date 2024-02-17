@@ -120,7 +120,8 @@ footer ul li {
   }
 
   footer input {
-    width: 5.2cm;  }
+    width: 100%;  
+  }
 
   .legal span{
     font-size: small;
