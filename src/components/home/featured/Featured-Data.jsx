@@ -55,33 +55,33 @@ export const responsive = {
     {
       id: 5,
       imageurl:
-        "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fHByb2R1Y3RzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      name: "Vans sneakers",
-      price: "$38.99",
-      description: "Some text about the product..",
+        "https://www.bhg.com/thmb/3Vf9GXp3T-adDlU6tKpTbb-AEyE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/white-modern-house-curved-patio-archway-c0a4a3b3-aa51b24d14d0464ea15d36e05aa85ac9.jpg",
+      name: "Plethora of house styles",
+      price: "$380,000.99",
+      description: "Some text about the manson..",
     },
     {
       id: 6,
       imageurl:
-        "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fHByb2R1Y3RzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      name: "Coco Noir",
-      price: "$149.99",
+        "https://www.bhg.com/thmb/I277gk9XbxINQiJ8hGNqrKprOWU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/large-cape-cod-exterior-circular-driveway-0abc3587-ae293581d2384f9088652b6705c0ef56.jpg",
+      name: "Cape Cod style features a steep roofline, wood siding, multi-pane windows, and hardwood floors.",
+      price: "$149,000.99",
       description: "Some text about the product..",
     },
     {
       id: 7,
       imageurl:
-        "https://images.unsplash.com/photo-1589782182703-2aaa69037b5b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTJ8fHByb2R1Y3RzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      name: "Sunglasses",
-      price: "$38.99",
+        "https://www.bhg.com/thmb/QD3i9Qp7bTjYaUkw-A0Q5MC5WAQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/country-french-front-facade-stone-pillars-06e783d1-d9cb73eded5b4b78b054876bd1278a30.jpg",
+      name: "Country French homes are often one story with many narrow windows and paired shutters, steeply pitched roofs (either hipped or side-gabled), stucco walls, and a half-timbered frame.",
+      price: "$388,000.99",
       description: "Some text about the product..",
     },
     {
       id: 8,
       imageurl:
-        "https://images.unsplash.com/photo-1625772452859-1c03d5bf1137?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHByb2R1Y3RzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      name: "Dove cream",
-      price: "$49.99",
+        "https://www.bhg.com/thmb/BUu8BzNrUVsMVMkRYRWeYurWxsw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/102670857_preview-50b88996b48c4f03b13454504af65a72.jpg",
+      name: "Victorian-style houses often feature a steeply pitched roof, a dominant front-facing gable, patterned shingles, and cutaway bay windows. Victorian-style houses usually have an asymmetrical facade with a partial or full-width front porch.",
+      price: "$499,909.99",
       description: "Some text about the product..",
     },
   ];

@@ -52,38 +52,7 @@ export const responsive = {
       price: "$100,000.99",
       description: "Some text about the product..",
     },
-    {
-      id: 5,
-      imageurl:
-        "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fHByb2R1Y3RzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      name: "Vans sneakers",
-      price: "$38.99",
-      description: "Some text about the product..",
-    },
-    {
-      id: 6,
-      imageurl:
-        "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fHByb2R1Y3RzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      name: "Coco Noir",
-      price: "$149.99",
-      description: "Some text about the product..",
-    },
-    {
-      id: 7,
-      imageurl:
-        "https://images.unsplash.com/photo-1589782182703-2aaa69037b5b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTJ8fHByb2R1Y3RzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      name: "Sunglasses",
-      price: "$38.99",
-      description: "Some text about the product..",
-    },
-    {
-      id: 8,
-      imageurl:
-        "https://images.unsplash.com/photo-1625772452859-1c03d5bf1137?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHByb2R1Y3RzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      name: "Dove cream",
-      price: "$49.99",
-      description: "Some text about the product..",
-    },
+
   ];
   
 /**featured link items */

@@ -58,6 +58,22 @@ export const featured = [
     name: "Villa & Condo",
     total: "80 Property",
   },
+  
+  {
+    cover: "../images/hero/h6.png",
+    name: "Villa & Condo",
+    total: "80 Property",
+  },
+  {
+    cover: "../images/hero/h6.png",
+    name: "Villa & Condo",
+    total: "80 Property",
+  },
+  {
+    cover: "../images/hero/h6.png",
+    name: "Villa & Condo",
+    total: "80 Property",
+  },
 ]
 
 /**list link items */
