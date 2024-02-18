@@ -16,7 +16,7 @@ const Awards = () => {
                 <div className='icon'>
                   <span>{val.icon}</span>
                 </div>
-                <h1>{val.num}</h1>
+                <h1 className="award-number-value">{val.num}</h1>
                 <p>{val.name}</p>
               </div>
             ))}

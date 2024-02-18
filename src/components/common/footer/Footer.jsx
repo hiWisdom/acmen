@@ -10,7 +10,7 @@ const Footer = () => {
           <div className='send flex'>
             <div className='text'>
               <h1>Do You Have Questions ?</h1>
-              <p>We'll help you to grow your career and growth.</p>
+              <p>We'll find your dream home with you.</p>
             </div>
             <button className='btn5'>Contact Us Today</button>
           </div>
@@ -70,7 +70,7 @@ const Footer = () => {
         <div className="subscribe-container">
 
 
-          <h2>Do You Need Help With Anything?</h2>
+          <h2>Stay updated! with latest real estate management information</h2>
           <p className="subscibenow-animate">Subscribe Now</p>
           <p>Receive updates, hot deals, Real Estate Investment, sent straignt in your inbox daily</p>
 

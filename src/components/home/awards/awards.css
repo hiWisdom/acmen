@@ -32,3 +32,7 @@
 .awards p {
   color: grey;
 }
+
+.award-number-value {
+  color: white !important;
+}

@@ -184,6 +184,15 @@ footer ul li {
     margin: 1.5%;
   }
 
+  .subscribe-container h2 {
+    font-size: medium;
+    border: 1px solid #fff40a;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    padding: 1.5%;
+  }
+
   .input {
     border: 2px solid none;
     width: 90%;  
