@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/acmen/static/css/main.7b85b04a.css",
-    "main.js": "/acmen/static/js/main.342cf94f.js",
+    "main.css": "/acmen/static/css/main.0153ff6b.css",
+    "main.js": "/acmen/static/js/main.d653be3e.js",
     "static/media/about.jpg": "/acmen/static/media/about.56e92b20e762df2fa5de.jpg",
     "static/media/pricing.jpg": "/acmen/static/media/pricing.4552ccf3b91e93029513.jpg",
     "static/media/services.jpg": "/acmen/static/media/services.13be7fde05782bd5e2e8.jpg",
-    "static/media/banner.png": "/acmen/static/media/banner.1a3c8a0a448e8e24f6a0.png",
     "static/media/revicons.eot": "/acmen/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/acmen/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/acmen/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/acmen/index.html",
-    "main.7b85b04a.css.map": "/acmen/static/css/main.7b85b04a.css.map",
-    "main.342cf94f.js.map": "/acmen/static/js/main.342cf94f.js.map"
+    "main.0153ff6b.css.map": "/acmen/static/css/main.0153ff6b.css.map",
+    "main.d653be3e.js.map": "/acmen/static/js/main.d653be3e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b85b04a.css",
-    "static/js/main.342cf94f.js"
+    "static/css/main.0153ff6b.css",
+    "static/js/main.d653be3e.js"
   ]
 }
