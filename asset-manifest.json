@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/acmen/static/css/main.8584cbc5.css",
-    "main.js": "/acmen/static/js/main.a8b4b2ba.js",
+    "main.css": "/acmen/static/css/main.7b85b04a.css",
+    "main.js": "/acmen/static/js/main.342cf94f.js",
     "static/media/about.jpg": "/acmen/static/media/about.56e92b20e762df2fa5de.jpg",
     "static/media/pricing.jpg": "/acmen/static/media/pricing.4552ccf3b91e93029513.jpg",
     "static/media/services.jpg": "/acmen/static/media/services.13be7fde05782bd5e2e8.jpg",
@@ -10,11 +10,11 @@
     "static/media/revicons.ttf": "/acmen/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/acmen/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/acmen/index.html",
-    "main.8584cbc5.css.map": "/acmen/static/css/main.8584cbc5.css.map",
-    "main.a8b4b2ba.js.map": "/acmen/static/js/main.a8b4b2ba.js.map"
+    "main.7b85b04a.css.map": "/acmen/static/css/main.7b85b04a.css.map",
+    "main.342cf94f.js.map": "/acmen/static/js/main.342cf94f.js.map"
   },
   "entrypoints": [
-    "static/css/main.8584cbc5.css",
-    "static/js/main.a8b4b2ba.js"
+    "static/css/main.7b85b04a.css",
+    "static/js/main.342cf94f.js"
   ]
 }
