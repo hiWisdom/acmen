@@ -23,7 +23,7 @@ export const responsive = {
     {
       id: 1,
       imageurl:
-        "https://i.ytimg.com/vi/P0jmKnSO1RA/hqdefault.jpg",
+        "https://asokoroisland.com/wp-content/uploads/2021/01/asokoro-villa-view-021.jpg.webp",
       name: "House & Villa",
       price: "$120,009.99",
       description: "",

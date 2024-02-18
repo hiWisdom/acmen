@@ -23,9 +23,9 @@ export const responsive = {
     {
       id: 1,
       imageurl:
-        "https://i.ytimg.com/vi/P0jmKnSO1RA/hqdefault.jpg",
-      name: "House & Villa",
-      price: "$120,009.99",
+        "https://www.gqdesign.com/wp-content/themes/wpbootstrap/bootstrap/projects/asokoro-island-cgi-5.jpg",
+      name: "Asokoro-island & Villa",
+      price: "$1,920,009.99",
       description: "",
     },
     {
@@ -64,7 +64,7 @@ export const responsive = {
       id: 6,
       imageurl:
         "https://www.bhg.com/thmb/I277gk9XbxINQiJ8hGNqrKprOWU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/large-cape-cod-exterior-circular-driveway-0abc3587-ae293581d2384f9088652b6705c0ef56.jpg",
-      name: "Cape Cod style features a steep roofline, wood siding, multi-pane windows, and hardwood floors.",
+      name: "Cape Cod style home.",
       price: "$149,000.99",
       description: "Some text about the product..",
     },
@@ -72,7 +72,7 @@ export const responsive = {
       id: 7,
       imageurl:
         "https://www.bhg.com/thmb/QD3i9Qp7bTjYaUkw-A0Q5MC5WAQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/country-french-front-facade-stone-pillars-06e783d1-d9cb73eded5b4b78b054876bd1278a30.jpg",
-      name: "Country French homes are often one story with many narrow windows and paired shutters, steeply pitched roofs (either hipped or side-gabled), stucco walls, and a half-timbered frame.",
+      name: "Country French homes.",
       price: "$388,000.99",
       description: "Some text about the product..",
     },
@@ -80,7 +80,7 @@ export const responsive = {
       id: 8,
       imageurl:
         "https://www.bhg.com/thmb/BUu8BzNrUVsMVMkRYRWeYurWxsw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/102670857_preview-50b88996b48c4f03b13454504af65a72.jpg",
-      name: "Victorian-style houses often feature a steeply pitched roof, a dominant front-facing gable, patterned shingles, and cutaway bay windows. Victorian-style houses usually have an asymmetrical facade with a partial or full-width front porch.",
+      name: "Victorian-style houses.",
       price: "$499,909.99",
       description: "Some text about the product..",
     },

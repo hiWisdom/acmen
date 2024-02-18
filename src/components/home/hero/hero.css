@@ -66,6 +66,8 @@ form h4 {
   font-weight: 500;
 }
 
+
+
 @media screen and (max-width: 800px) {
   .hero .container {
     padding-top: 30%;
@@ -78,6 +80,7 @@ form h4 {
 
   form .box {
     border-left: none;
+    padding: 0.2%;
   }
 
   form input {
