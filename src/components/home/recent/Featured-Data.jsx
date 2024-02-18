@@ -52,7 +52,6 @@ export const responsive = {
       price: "$100,000.99",
       description: "Some text about the product..",
     },
-
   ];
   
 /**featured link items */
