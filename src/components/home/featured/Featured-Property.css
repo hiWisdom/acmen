@@ -1,0 +1,92 @@
+
+  
+  h1 {
+    font-size: 20px !important;
+  }
+
+  .product-image {
+    height: 16em;
+    object-fit: cover;
+    border: 1px solid none;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border: 1px solid none !important;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    background-color: azure;
+    filter: drop-shadow(1px 5px 10px azure);
+    padding: 5% !important;
+  }
+
+  .card .name {
+    border: 1px solid none;
+    width: 95%;
+    margin: auto;
+    margin-top: 2%;
+    color: black;
+    font-size: 16.5px;
+    padding: 1.5%;
+    text-align: left;
+    font-weight: bolder !important;
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+  }
+
+  .card .price {
+    color: black;
+    font-size: 16.5px;
+  }
+
+  .card .description {
+    border: 1px solid none;
+    width: 95%;
+    margin: auto;
+    color: black;
+    font-size: 11.5px;
+    text-align: left;
+    padding: 0.5%;
+  }
+  
+  .card button {
+    border: 1px solid none;
+    width: 95%;
+    outline: 0;
+    padding: 5%;
+    color: black;
+    background-color: white;
+    border-radius: 10%;
+    text-align: center;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all .2s;
+  }
+  
+  .card button:hover {
+    background-color: #0b76af !important;
+    border: 1px solid #0b76af;
+  }
+  
+  .AboutusCarouselAppConntainer {
+    border: 1px solid none !important;
+    margin: auto;
+    height: fit-content;
+    padding: 5% 0%;
+  }
+
+  .CarouselApp {
+    border: 1px solid none;
+    width: 99%;
+    margin: auto;
+  }
+
+  @media screen and (max-width: 768px) {
+
+    .AboutusCarouselAppConntainer {
+      width: 97%;
+      margin: auto;
+      padding: 10% 0%;
+    }
+  
+  }

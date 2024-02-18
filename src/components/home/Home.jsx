@@ -2,6 +2,7 @@ import React from "react"
 import Awards from "./awards/Awards"
 import Featured from "./featured/Featured"
 import Hero from "./hero/Hero"
+import FeaturedProperty from "./featured/Featured-Property";
 import Location from "./location/Location"
 import Price from "./price/Price"
 import Recent from "./recent/Recent"
@@ -11,7 +12,8 @@ const Home = () => {
   return (
     <>
       <Hero />
-      <Featured />
+      {/* <Featured /> */}
+      <FeaturedProperty />
       {/* <Recent />
       <Location /> */}
       {/* <Team />
